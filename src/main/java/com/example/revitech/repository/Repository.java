@@ -1,5 +1,5 @@
 package com.example.revitech.repository;
 
-public class Repository {
-
+public interface Repository {
+//aiueo saikou
 }
