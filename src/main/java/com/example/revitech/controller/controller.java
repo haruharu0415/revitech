@@ -4,5 +4,5 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class controller {
- //ここがコントローラです。やったー！！
+ //ここがコントローラです。やったー！！x2
 }
